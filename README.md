@@ -1,4 +1,4 @@
 exemplar
 ========
 
-Testing platform for bugcrowd
+Splashpage for testing the bugcrowd platform
